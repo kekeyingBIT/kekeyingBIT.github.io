@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://sie.bit.edu.cn/'>Affiliations</a>. Beijing Institute of Technology
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ykk@bit.edu.cn</p>
-    <p>No 5 Zhongguancun South Street, Haidian District, Beijing</p>
+    <p>No 5 Zhongguancun South Street, Haidian District</p>
     <p>Beijing, China 100081</p>
 
 news: true # includes a list of news items
